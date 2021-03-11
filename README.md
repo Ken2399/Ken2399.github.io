@@ -1,2 +1,3 @@
-# Ken2399.github.io/ecommerce
+# E-commerce website
+Built with HTML & CSS.
  
