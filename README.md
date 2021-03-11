@@ -1,3 +1,5 @@
 # E-commerce website
-Built with HTML & CSS. Available at https://ken2399.github.io/
+Layout designed in Adobe XD.
+Website developed with HTML & CSS and deployed with GitHub Pages.
+See it at https://ken2399.github.io/.
  
